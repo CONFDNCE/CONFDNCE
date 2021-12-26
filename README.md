@@ -1,4 +1,4 @@
-Hi there , I'm confidêncê<img src="https://komarev.com/ghpvc/?username=CONFDNCE&color=00ff54"/>
+Hi there , I'm confidêncê <img src="https://komarev.com/ghpvc/?username=CONFDNCE&color=00ff54"/>
 
 <p align="left"></p>
 My Discord Acc: confdêncê#0001
