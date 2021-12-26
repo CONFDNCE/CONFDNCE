@@ -3,7 +3,6 @@ Hi there , I'm confidêncê <img src="https://komarev.com/ghpvc/?username=CONFDN
 
 <p align="left"></p>
 My Discord Acc: confdêncê#0001
-
 <img src="https://lanyard-profile-readme.vercel.app/api/924376099180396654" width="%100" height"150px" />
 
 <h3 align="left">My GitHub Stats:</h3>
