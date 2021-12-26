@@ -18,7 +18,3 @@ My Discord Acc: confdêncê#0001
    <img src="https://github-readme-stats.vercel.app/api?username=CONFDNCE&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 
 </p>
-<h3 align="left">Discord Status:</h3>
-<p align="left">
-<img src="https://lanyard-profile-readme.vercel.app/api/924376099180396654" width="%100" height"150px" />
-     </p>
