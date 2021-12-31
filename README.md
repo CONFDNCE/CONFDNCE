@@ -14,6 +14,5 @@ My Discord Acc: confdêncê#0001
 <h3>Social Media</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=CONFDNCE&color=00ff54"/>
   <a href="https://discord.com/users/924376099180396654" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
