@@ -1,7 +1,7 @@
 <h1>Hi there , I'm confidêncê</h1>
 
 <p align="left"></p>
-My Discord Acc: confdêncê#0001
+My Discord Acc: ❃ confidêncê#8155
 <img src="https://lanyard-profile-readme.vercel.app/api/924376099180396654" width="%100" height"150px" />
 
 <h3 align="left">My GitHub Stats:</h3>
